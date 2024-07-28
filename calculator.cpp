@@ -91,33 +91,3 @@ int main()
     obj1.cal();
     getch();
 }
-void add()
-{
-    w = a + b;
-    cout << a << " " << ch << " " << b << " "
-         << "="
-         << " " << w;
-}
-void sub()
-{
-    w = a - b;
-    cout << a << " " << ch << " " << b << " "
-         << "="
-         << " " << w;
-}
-void mul()
-{
-    w = a * b;
-    cout << a << " " << ch << " " << b << " "
-         << "="
-         << " " << w;
-}
-void div()
-{
-    w = a / b;
-    cout << a << " " << ch << " " << b << " "
-         << "="
-         << " " << w;
-}
-void printData()
-{
